@@ -14,5 +14,5 @@ func main() {
 			sum += i
 		}
 	}
-	fmt.Println(sum)
+	fmt.Println("Answer to problem 001:", sum)
 }
