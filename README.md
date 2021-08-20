@@ -4,4 +4,5 @@ Attempts at solving [Project Euler](https://projecteuler.net/) problems in diffe
 ## Languages to date:
 - C++
 - Go
+- JavaScript
 - Python
