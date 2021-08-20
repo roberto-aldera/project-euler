@@ -1,0 +1,16 @@
+{
+  "name": "javascript_src",
+  "version": "1.0.0",
+  "description": "Project Euler in JavaScript",
+  "main": "problem-001.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.1"
+  }
+}
