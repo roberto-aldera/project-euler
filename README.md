@@ -5,4 +5,5 @@ Attempts at solving [Project Euler](https://projecteuler.net/) problems in diffe
 - C++
 - Go
 - JavaScript
+- MATLAB
 - Python
