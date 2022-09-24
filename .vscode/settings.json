@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/cpp_src",
+    "cmake.buildDirectory": "${workspaceFolder}/cpp_src/build"
+}
