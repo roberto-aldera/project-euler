@@ -1,4 +1,5 @@
 {
     "cmake.sourceDirectory": "${workspaceFolder}/cpp_src",
-    "cmake.buildDirectory": "${workspaceFolder}/cpp_src/build"
+    "cmake.buildDirectory": "${workspaceFolder}/cpp_src/build",
+    "cmake.configureOnOpen": false
 }
