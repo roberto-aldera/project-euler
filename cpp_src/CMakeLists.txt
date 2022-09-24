@@ -16,3 +16,5 @@ add_executable("problem-003"
                "problem-003.cpp")
 add_executable("problem-004"
                "problem-004.cpp")
+add_executable("problem-005"
+               "problem-005.cpp")
