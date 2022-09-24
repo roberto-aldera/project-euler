@@ -1,6 +1,7 @@
 # C++
 */build*
 *.user
+*.cache*
 
 # Python
 *.idea
