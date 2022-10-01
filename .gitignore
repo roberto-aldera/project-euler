@@ -5,6 +5,7 @@
 
 # Python
 *.idea
+*.venv
 
 # JavaScript
 node_modules
