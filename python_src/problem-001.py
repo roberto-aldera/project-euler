@@ -17,4 +17,4 @@ if __name__ == "__main__":
     elapsed_time = time.time() - start_time
 
     print("Time elapsed:", elapsed_time)
-    print("Answer to problem 001: ", answer)
+    print("Answer to problem 001:", answer)

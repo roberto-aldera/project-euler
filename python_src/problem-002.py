@@ -16,10 +16,11 @@ def get_sum_of_even_fibonacci_under_n(n=4e6):
         fibonacci_values.append(b)
         a, b = b, a + b
 
-    even_fibonacci_values = [value for value in fibonacci_values if value % 2 == 0]
+    even_fibonacci_values = [
+        value for value in fibonacci_values if value % 2 == 0]
     return sum(even_fibonacci_values)
 
 
 if __name__ == "__main__":
     answer = get_sum_of_even_fibonacci_under_n(n=4e6)
-    print("Answer: ", answer)
+    print("Answer:", answer)

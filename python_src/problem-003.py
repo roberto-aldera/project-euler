@@ -35,4 +35,4 @@ def get_largest_prime_factor(n):
 
 if __name__ == "__main__":
     answer = get_largest_prime_factor(n=600851475143)
-    print("Answer: ", answer)
+    print("Answer:", answer)
