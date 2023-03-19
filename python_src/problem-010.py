@@ -25,5 +25,4 @@ def sieveOfEratosthenes(upper_limit):
 
 
 if __name__ == "__main__":
-
     print("Answer:", sum(sieveOfEratosthenes(200)))
