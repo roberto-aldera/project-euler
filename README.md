@@ -7,3 +7,4 @@ Attempts at solving [Project Euler](https://projecteuler.net/) problems in diffe
 - JavaScript
 - MATLAB
 - Python
+- Ruby
