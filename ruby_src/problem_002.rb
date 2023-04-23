@@ -18,7 +18,7 @@ def find_even_fibonacci_sum_under_n(num)
     b = a + b
     a = tmp
   end
-  evens = fibonacci_values.select { |val| val.even? }
+  evens = fibonacci_values.select(&:even?)
   puts evens.sum
 end
 
