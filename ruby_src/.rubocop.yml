@@ -1,0 +1,5 @@
+# .rubocop.yml
+
+AllCops:
+  Exclude:
+    - "vendor/**/*"
